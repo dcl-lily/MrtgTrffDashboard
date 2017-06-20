@@ -16,7 +16,7 @@ class TrafficAction
                 "--start=$start",
                 "--end=$endtime",
                 "--title=$title",
-                "--vertical-label=FTMS-DRL流量 - Kb/秒",
+                "--vertical-label=Nagios-网络流量 - Kb/秒",
                 "--rigid",
                 "--base=1000",
                 "--height=120",
